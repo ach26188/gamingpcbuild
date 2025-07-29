@@ -12,5 +12,5 @@
 
 Hardware diagnostic thinking
 - **Previously had a 1TB SSD NVME drive get corrupted, and unfortunately, was not able to recover the drive.**
-- **Had to install CrystalDiskInfo to check the SSD drive""
+- **Had to install CrystalDiskInfo to check the SSD drive**
 - <img width="876" height="630" alt="image" src="https://github.com/user-attachments/assets/9c3a2127-b0bf-4e9d-bb89-49d5ebaff02e" />
