@@ -1,2 +1,3 @@
-# gamingpcbuild
-2020 Gaming PC Build/Hardware validation &amp; QA 
+# 2020 Gaming PC Build/Hardware validation &amp; QA 
+
+
